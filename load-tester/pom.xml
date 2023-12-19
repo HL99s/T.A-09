@@ -15,7 +15,7 @@
         <gatling.version>3.9.0</gatling.version>
         <gatling-maven-plugin.version>4.2.9</gatling-maven-plugin.version>
         <scala-maven-plugin.version>4.8.0</scala-maven-plugin.version>
-        <javafaker.version>1.7.0</javafaker.version>
+        <javafaker.version>1.9.0</javafaker.version>
     </properties>
 
     <dependencies>
